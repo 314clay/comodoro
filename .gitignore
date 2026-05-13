@@ -47,3 +47,4 @@ fabric.properties
 
 ## Others
 .metadata/
+.DS_Store
